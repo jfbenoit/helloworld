@@ -1,3 +1,3 @@
-# bad but committed comment
+# Default is "world"
 name = ARGV.first || "World"
 puts "Hello, #{name}"
